@@ -1,1 +1,1 @@
-This repo contains a project for the Technical Bootcamp of UC San Diego's Computational Social Science MS program. In this project, I used statisdtical analysis to determine the personal and workplace factors correlated with mental health within the tech field.
+This repo contains a project for UC San Diego's Computational Social Science MS program Technical Bootcamp. In this project, I used statisdtical analysis to determine the personal and workplace factors correlated with mental health within the tech field.
